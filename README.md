@@ -10,3 +10,5 @@ others' welfare, not just the machinery of "best x."
 
 The premise I hold most firmly here — **share by default, because the goods that
 compound are non-rival**: [`sharing.md`](sharing.md).
+
+[Beyond action](beyond-action.txt) is the source text previously kept separately under life/consequentialism.
