@@ -17,3 +17,12 @@ The human wanted the writing collection grouped into AI, software and life.
 - Added the unchanged Beyond Action source text from the parent collection.
 
 Agent session 01a0b90b-7ae3-7ed1-bb2f-fde3ad5d78d3 · Commits writing: e7272f7, life/consequentialism: 0d15827
+
+## Agent instructions cleanup — 2026-09-19
+
+Alejo asked to refresh project instructions and remove redundant Claude instruction files where native AGENTS.md loading is available.
+
+- Updated the applicable instructions and removed redundant local Claude copies; distinct content and preserved snapshots remain.
+- Checked instruction references and shared-context freshness; native Claude loading requires 2.1.277+ with the built-in feature enabled.
+
+Agent session 01a0b915-3eb2-78b2-9add-6ba48ad9a3b1 · Commits a604371760553795abe21e9000c208ffbab17394
